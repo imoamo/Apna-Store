@@ -1,4 +1,4 @@
-# Ecommerce Project with React and Styled Components
+# React Ecommerce Project
 
 Project Link: [Apna Ecommerce Store](https://apna-ecommerce-store.netlify.app/products)
 
